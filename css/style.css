@@ -266,8 +266,6 @@ margin-right: 30px;
 }
 
 .overlay {
-    /*width: 255px;
-    height: 282px;*/
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.55);
@@ -347,6 +345,10 @@ margin-right: 30px;
     background-image: url(../img/goods-icons/buy.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+
+.overlay-container {
+    position: relative;
 }
 
 /*FOOTER*/
